@@ -68,7 +68,7 @@ All PR's are now being entertained ,Please star this repo in order to get furthe
 | [HackinCodes Contributor's Hack](https://hakincodes.tech/)                           | Prizes and swag rewards                                       | [timeline](https://hakincodes.tech/CH20.html)           |
 
 * *Indian Students Only
-* ** OSS World Challenge has temporarily stopped accepting international applications.
+* ** OSS World Challenge has temporarily stopped accepting International Applications.
 
 # University SoC/WoC
 
